@@ -1,0 +1,15 @@
+<Key, "if">
+<Openparen, "(">
+<Id, "x">
+<Op, "==">
+<Id, "y">
+<Closeparen, ")">
+<Id, "z">
+<Op, "=">
+<Interger, "12">
+<Semic, ";">
+<Key, "else">
+<Id, "z">
+<Op, "=">
+<Interger, "7">
+<Semic, ";">

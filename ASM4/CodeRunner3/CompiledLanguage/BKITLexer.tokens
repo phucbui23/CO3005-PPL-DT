@@ -1,0 +1,17 @@
+Add=1
+Sub=2
+Mul=3
+Div=4
+Mod=5
+Integer=6
+Identifier=7
+WS=8
+ERROR_CHAR=9
+UNCLOSE_STRING=10
+ILLEGAL_ESCAPE=11
+UNTERMINATED_COMMENT=12
+'+'=1
+'-'=2
+'*'=3
+'/'=4
+'%'=5

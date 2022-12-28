@@ -1,0 +1,15 @@
+Key=1
+Interger=2
+Id=3
+Semic=4
+Openparen=5
+Closeparen=6
+Op=7
+WS=8
+ERROR_CHAR=9
+UNCLOSE_STRING=10
+ILLEGAL_ESCAPE=11
+UNTERMINATED_COMMENT=12
+';'=4
+'('=5
+')'=6

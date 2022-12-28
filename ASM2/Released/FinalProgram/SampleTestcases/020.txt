@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    float i = 9.0;
+    int j;
+
+    while (4 == i) {
+    }
+    
+    return 0;
+}
